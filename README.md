@@ -35,5 +35,12 @@ Voici les ressources que je suis pour rester à jour :
 - [Dev.to](https://dev.to) — Articles DevOps et Cloud
 - [Microsoft Learn](https://learn.microsoft.com) — Documentation Azure
 - [GitHub Blog](https://github.blog) — Nouveautés GitHub
+
+## ⭐ Recommandations
+
+> *"Hajar est une personne sérieuse et motivée, 
+> avec qui j'ai eu le plaisir de collaborer en formation DevOps Azure. 
+> Je recommande de suivre son parcours !"*  
+> — Leith, promotion DevOps Azure Simplon 2026
 ---
 *Page mise à jour le 13/05/2026*
