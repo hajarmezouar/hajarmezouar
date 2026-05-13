@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**hajarmezouar/hajarmezouar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonjour, je suis Hajar MEZOUAR 👋
 
-Here are some ideas to get you started:
+## 🙋 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 En formation **DevOps Azure** chez Simplon
+- 📍 Basée à Toulouse
+- 💼 Objectif : Ingénieur Systèmes & Intégration (Cloud / DevOps)
+- 🌱 En ce moment j'apprends : Git, Azure, Docker, CI/CD
+
+## 🛠️ Compétences en cours d'acquisition
+
+- Git & GitHub
+- Microsoft Azure
+- Linux & Bash
+- Docker
+- CI/CD (GitHub Actions)
+
+## 📫 Me contacter
+
+- LinkedIn : https://www.linkedin.com/in/hajarmezouar
+- Email : hajarmezouar@gmail.com
+
+---
+*Page mise à jour le 13/05/2026*
