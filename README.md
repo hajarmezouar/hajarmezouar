@@ -34,7 +34,7 @@ I'm training in **Azure DevOps at Simplon**, building practical skills through p
 | **[Backup & Recovery](https://github.com/Hajar-Simplon/aks-velero-azure-backup)** | Kubernetes resource backups with Velero and recovery from Azure Blob Storage. |
 | **[Azure Observability](https://github.com/hajarmezouar/terraform-azure-observability)** | Terraform deployment of a monitored platform using Azure Monitor, Prometheus, and Grafana. |
 
-👉 **[Explore all my projects by category in Hajar-Simplon](https://github.com/Hajar-Simplon)** — the portfolio refreshes automatically every six hours.
+👉 **[Explore all my projects by category in Hajar-Simplon](https://github.com/Hajar-Simplon)**.
 
 ## 📚 Learning & technology watch
 
