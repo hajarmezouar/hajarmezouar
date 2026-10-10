@@ -1,53 +1,53 @@
-# Bonjour, je suis Hajar MEZOUAR 👋
+# Hi, I'm Hajar MEZOUAR 👋
 
 ### Cloud & DevOps · Azure · Kubernetes · Infrastructure as Code
 
-## 🙋 À propos de moi
+## 🙋 About me
 
-En formation **DevOps Azure chez Simplon**, je développe mes compétences à travers des projets concrets de déploiement, d’automatisation, de supervision et de sécurisation d’infrastructures cloud.
+I'm training in **Azure DevOps at Simplon**, building practical skills through projects in cloud deployment, automation, monitoring, and infrastructure security.
 
-- 📍 Basée à **Toulouse**
-- 🎯 Objectif : **Ingénieur Systèmes & Intégration — Cloud / DevOps**
-- 🌱 Je pratique actuellement **AKS, Terraform, GitOps, CI/CD et l’observabilité**
-- 📂 Mon portfolio de formation : **[Hajar-Simplon](https://github.com/Hajar-Simplon)**
+- 📍 Based in **Toulouse, France**
+- 🎯 Career goal: **Systems & Integration Engineer — Cloud / DevOps**
+- 🌱 Currently practicing **AKS, Terraform, GitOps, CI/CD, and observability**
+- 📂 My training portfolio: **[Hajar-Simplon](https://github.com/Hajar-Simplon)**
 
-## 🛠️ Compétences mises en pratique
+## 🛠️ Skills applied in projects
 
-| Domaine | Technologies et pratiques |
+| Area | Technologies and practices |
 | --- | --- |
-| Cloud Azure | AKS, ACR, App Service, Azure Functions, Azure Files, Blob Storage, Key Vault |
-| Infrastructure as Code | Terraform, modules réutilisables, état distant, Bicep |
-| Conteneurs & orchestration | Docker, Docker Compose, Kubernetes, Kind, Helm, Kustomize |
-| CI/CD & GitOps | GitHub Actions, GitLab CI/CD, Argo CD, Flux, authentification OIDC |
-| Observabilité | Prometheus, Grafana, Alertmanager, Azure Monitor, Application Insights, Log Analytics |
-| Sécurité & fiabilité | Entra ID, Azure RBAC, Workload Identity, gestion des secrets, Velero, sauvegarde et restauration |
-| Systèmes & automatisation | Linux, Bash, PowerShell, Azure CLI, Git, Ansible |
+| Azure Cloud | AKS, ACR, App Service, Azure Functions, Azure Files, Blob Storage, Key Vault |
+| Infrastructure as Code | Terraform, reusable modules, remote state, Bicep |
+| Containers & orchestration | Docker, Docker Compose, Kubernetes, Kind, Helm, Kustomize |
+| CI/CD & GitOps | GitHub Actions, GitLab CI/CD, Argo CD, Flux, OIDC authentication |
+| Observability | Prometheus, Grafana, Alertmanager, Azure Monitor, Application Insights, Log Analytics |
+| Security & reliability | Entra ID, Azure RBAC, Workload Identity, secrets management, Velero, backup and recovery |
+| Systems & automation | Linux, Bash, PowerShell, Azure CLI, Git, Ansible |
 
-## 🚀 Projets sélectionnés
+## 🚀 Featured projects
 
-| Projet | Ce que j’ai réalisé |
+| Project | What I built |
 | --- | --- |
-| **[Azure Quiz](https://github.com/hajarmezouar/bilan-azure-terraform)** | Infrastructure Terraform et livraison automatisée d’un [frontend Angular](https://github.com/hajarmezouar/bilan-azure-frontend) et d’une [API Spring Boot](https://github.com/hajarmezouar/bilan-azure-backend) sur Azure. |
-| **[Observabilité Kubernetes](https://github.com/Hajar-Simplon/kube-operator-manager)** | Supervision d’AKS avec Prometheus Operator, Grafana, alertes, cert-manager et ingress HTTPS. |
-| **[PostgreSQL sur AKS](https://github.com/Hajar-Simplon/azure-aks-app)** | Déploiement GitOps avec Argo CD, stockage persistant Azure Disk et secrets montés depuis Key Vault. |
-| **[Microservices & CI/CD](https://github.com/Hajar-Simplon/kube-microservices-cd)** | Livraison de microservices Go sur AKS avec Helm, GitLab CI/CD et images versionnées dans ACR. |
-| **[Sauvegarde & restauration](https://github.com/Hajar-Simplon/aks-velero-azure-backup)** | Sauvegarde de ressources Kubernetes avec Velero et restauration depuis Azure Blob Storage. |
-| **[Observabilité Azure](https://github.com/hajarmezouar/terraform-azure-observability)** | Déploiement Terraform d’une plateforme supervisée avec Azure Monitor, Prometheus et Grafana. |
+| **[Azure Quiz](https://github.com/hajarmezouar/bilan-azure-terraform)** | Terraform infrastructure and automated delivery of an [Angular frontend](https://github.com/hajarmezouar/bilan-azure-frontend) and a [Spring Boot API](https://github.com/hajarmezouar/bilan-azure-backend) on Azure. |
+| **[Kubernetes Observability](https://github.com/Hajar-Simplon/kube-operator-manager)** | AKS monitoring with Prometheus Operator, Grafana, alerts, cert-manager, and HTTPS ingress. |
+| **[PostgreSQL on AKS](https://github.com/Hajar-Simplon/azure-aks-app)** | GitOps deployment with Argo CD, persistent Azure Disk storage, and secrets mounted from Key Vault. |
+| **[Microservices & CI/CD](https://github.com/Hajar-Simplon/kube-microservices-cd)** | Delivery of Go microservices to AKS using Helm, GitLab CI/CD, and versioned images in ACR. |
+| **[Backup & Recovery](https://github.com/Hajar-Simplon/aks-velero-azure-backup)** | Kubernetes resource backups with Velero and recovery from Azure Blob Storage. |
+| **[Azure Observability](https://github.com/hajarmezouar/terraform-azure-observability)** | Terraform deployment of a monitored platform using Azure Monitor, Prometheus, and Grafana. |
 
-👉 **[Voir tous mes projets classés par domaine dans Hajar-Simplon](https://github.com/Hajar-Simplon)** — le portfolio est actualisé automatiquement toutes les six heures.
+👉 **[Explore all my projects by category in Hajar-Simplon](https://github.com/Hajar-Simplon)** — the portfolio refreshes automatically every six hours.
 
-## 📚 Ma veille technologique
+## 📚 Learning & technology watch
 
-- [Microsoft Learn](https://learn.microsoft.com) — Azure et parcours de formation
-- [Documentation Kubernetes](https://kubernetes.io/docs/) — orchestration et exploitation
-- [HashiCorp Developer](https://developer.hashicorp.com/terraform) — Terraform et Infrastructure as Code
-- [GitHub Blog](https://github.blog) — outils de développement et automatisation
+- [Microsoft Learn](https://learn.microsoft.com) — Azure documentation and learning paths
+- [Kubernetes Documentation](https://kubernetes.io/docs/) — orchestration and operations
+- [HashiCorp Developer](https://developer.hashicorp.com/terraform) — Terraform and Infrastructure as Code
+- [GitHub Blog](https://github.blog) — developer tools and automation
 
-## 📫 Me contacter
+## 📫 Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/hajarmezouar)
 - [Email](mailto:hajarmezouar@gmail.com)
 - [GitLab](https://gitlab.com/hajarmezouar)
 
 ---
-*Profil mis à jour le 10 octobre 2026.*
+*Profile updated on October 10, 2026.*
